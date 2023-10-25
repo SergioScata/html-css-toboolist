@@ -1,32 +1,108 @@
-*{
+* {
     border: 0;
-    margin:0;
+    margin: 0;
 }
 
 .first-form {
     width: 80px;
     height: 20px;
-    background-color: aqua; 
-    border:2px groove rgb(117, 112, 112);
-    border-radius: 15%;
+    background-color: aqua;
+    border: 2px groove rgb(117, 112, 112);
+    border-radius: 10px;
     line-height: 20px;
     padding: 8px;
 }
 
-.second-form{
+.second-form {
     width: 300px;
     height: 100px;
-    border:2px groove rgb(121, 116, 116);
-    border-radius: 15%;
+    border: 2px groove rgb(121, 116, 116);
+    border-radius: 10px;
     line-height: 50px;
-    margin-left:5px ;
+    margin-left: 5px;
     padding: 8px;
 }
 
-.color-green{
+.color-green {
     color: green;
 }
 
-.color-red{
+.color-red {
     color: red;
+}
+
+.border-bottom {
+    border-bottom: 1px solid darkgray;
+}
+
+.third-form {
+    width: 100px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: rgb(116, 204, 204);
+    font-size: small;
+    line-height: 60px;
+    padding: 5px;
+    margin: 10px;
+    color: white;
+}
+
+.fourth-form {
+    width: 100px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: purple;
+    font-size: small;
+    line-height: 60px;
+    padding: 5px;
+    margin: 10px;
+    color: white;
+}
+
+.fifth-form {
+    width: 100px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: rgb(20, 156, 104);
+    font-size: small;
+    line-height: 60px;
+    padding: 5px;
+    margin: 10px;
+    color: white;
+}
+
+.sixth-form {
+    width: 100px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: orange;
+    font-size: small;
+    line-height: 60px;
+    padding: 5px;
+    margin: 10px;
+    color: white;
+}
+
+.seventh-form {
+    width: 100px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: rgb(216, 134, 148);
+    font-size: small;
+    line-height: 60px;
+    padding: 5px;
+    margin: 10px;
+    color: white;
+}
+
+.eighth-form {
+    width: 100px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: rgb(92, 139, 54);
+    font-size: small;
+    line-height: 60px;
+    padding: 5px;
+    margin: 10px;
+    color: white;
 }
