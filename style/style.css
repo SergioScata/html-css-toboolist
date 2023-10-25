@@ -106,3 +106,25 @@
     margin: 10px;
     color: white;
 }
+
+.centering{
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    width: 1000px;
+    background-color: white;
+}
+
+body{
+    background-color:#F6F8F9;
+}
+
+header{
+    background-color: white;
+}
+
+.p-10{
+    padding: 10px;
+}
+
